@@ -1,0 +1,149 @@
+*{
+    font-family: Comfortaa, sans-serif;
+    background-color:rgb(182, 132, 220);
+    color:rgb(2, 35, 65);
+}
+
+#navbar{
+    background: linear-gradient(45deg,
+    hotpink,
+    goldenrod,
+    cyan);
+    position:fixed;
+    top:0;
+    right:0;
+    width:100%;
+    font-size: 1.5em;
+    font-weight: bold;
+    display:inline-flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 60px;
+}
+
+h1{
+    font-family: 'Cherry Swash', cursive;
+    font-size: 5em;
+    padding-bottom: 0;
+}
+
+.fab{
+    font-size: 3em;
+    display: flex;
+    justify-content: space-around; 
+    padding: 20px;/*how do I add more space between these?*/
+}
+
+#connect{
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content: space-around;
+}
+
+#self-portrait{
+    max-height: 300px;
+    max-width: auto;
+    border-radius: 50%;
+    border: 3.5px double indigo;
+    padding:0;
+    margin:0;
+}
+
+#welcome-section{
+    width:100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 1em;
+    height: 80vh;
+}
+
+#nav-link{
+    background: transparent;
+}
+
+#nav-link:hover{
+    transform: scale(1.25);
+    color: #4f4d91;
+    font-family: 'Righteous', serif;
+}
+
+.contact-form{
+    align-items:center;
+    justify-content: center;
+    padding: 3vmin;
+    font-size: 1.5rem;
+    height: 5vh;
+    padding-bottom: 25vmin;
+}
+
+h2{
+    font-family: 'Montserrat', Comfortaa, sans-serif;
+    font-size: 2em;
+    text-align: center;
+}
+
+h4{
+    font-size: 1.2em;
+    font-weight: bold;
+    text-align: center;
+}
+
+ul{
+    list-style-type: none;
+}
+
+li{
+    text-align: center;
+    padding: 8px;
+    font-size: 1rem;
+}
+
+#fcc-project{
+    height: auto;
+    width: 25vmax;
+    align-self:baseline;
+}
+
+footer{
+    font-size: 10px;
+    border-top: 2px double indigo;
+    text-align: center;
+}
+
+@media screen and (max-width: 768px){
+    body{
+        max-width: 100%;
+        font-size: 3vmin;
+    }
+    #navbar{
+        position: fixed;
+        max-height: 4vmax;
+        text-align: center;
+        justify-content: space-around;
+        font-size: 2.5vmin;
+    }
+    img{
+        max-width: 30vmax;
+        max-height: auto;
+    }
+}
+
+.resume{
+    width:90%;
+    display: grid;
+    grid-template-columns: 25vmax 30vmax 25vmax;
+    column-gap: 5vmax;
+    justify-content:stretch;
+}
+
+
+#resume-heading{
+    border-bottom: 1.5px solid rgb(120, 6, 116);
+}
+
+p:not(#copyright){
+    font-size: 1.25rem;
+}
