@@ -149,6 +149,10 @@ p:not(#copyright){
         font-size: 1em;
     }
 
+    .contact-form{
+        padding: 50px !important;
+    }
+
     .resume{
         display: grid;
         grid-template-columns: 1fr !important;
