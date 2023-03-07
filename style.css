@@ -135,6 +135,6 @@ p:not(#copyright){
     #nav-bar{
         height: 30px;
         font-size: 1em;
-        width: 100vw;
+        width: 100vmax;
     }
 }
