@@ -150,7 +150,7 @@ p:not(#copyright){
     }
 
     body{
-        margin-bottom: 25vmin !important;
+        margin-bottom: 25vh !important;
     }
 
     .resume{
