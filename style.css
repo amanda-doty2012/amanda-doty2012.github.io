@@ -21,6 +21,13 @@
     height: 60px;
 }
 
+.navbar{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    margin: 10vh;
+}
+
 h1{
     font-family: 'Cherry Swash', cursive;
     font-size: 5em;
@@ -132,9 +139,12 @@ p:not(#copyright){
 }
 
 @media screen and (max-width: 1023px){
+    .navbar{
+        width:100%;
+    }
+    
     #nav-bar{
         height: 30px;
         font-size: 1em;
-        width: 100vmax;
     }
 }
