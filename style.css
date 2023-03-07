@@ -130,7 +130,8 @@ footer{
         max-height: auto;
     }
     .contact-form{
-        padding: 2vmin;
+        padding: 2vmax;
+        margin: 2vmax;
     }
 }
 
