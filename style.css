@@ -133,8 +133,8 @@ p:not(#copyright){
 
 @media screen and (max-width: 1023px){
     #nav-bar{
-        height: 25px;
-        font-size: .5em;
-        width: auto;
+        height: 30px;
+        font-size: 1em;
+        width: 100%;
     }
 }
