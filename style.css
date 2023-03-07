@@ -140,7 +140,9 @@ p:not(#copyright){
 
 @media screen and (max-width: 1023px){
     .navbar{
-        width:100%;
+        width:100vw;
+        top: 0;
+        margin: auto;
     }
     
     #nav-bar{
