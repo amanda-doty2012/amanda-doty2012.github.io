@@ -148,4 +148,8 @@ p:not(#copyright){
         height: 45px;
         font-size: 1em;
     }
+
+    .resume{
+        display: block;
+    }
 }
