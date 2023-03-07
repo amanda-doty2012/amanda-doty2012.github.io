@@ -132,8 +132,9 @@ p:not(#copyright){
 }
 
 @media screen and (max-width: 1023px){
-    header{
-        height: 10vh;
-        font-size: 5vh;
+    #nav-bar{
+        height: 25px;
+        font-size: .5em;
+        width: auto;
     }
 }
