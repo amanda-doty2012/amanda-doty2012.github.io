@@ -149,8 +149,8 @@ p:not(#copyright){
         font-size: 1em;
     }
 
-    .contact-form{
-        padding: 25vmin !important;
+    #connect{
+        margin: 25vmin !important;
     }
 
     .resume{
