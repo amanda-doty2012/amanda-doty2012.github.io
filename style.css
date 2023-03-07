@@ -150,6 +150,9 @@ p:not(#copyright){
     }
 
     .resume{
-        display: block;
+        display: grid;
+        grid-template-columns: 1fr;
+        padding: 1em;
+        grid-row-gap: 100px;
     }
 }
