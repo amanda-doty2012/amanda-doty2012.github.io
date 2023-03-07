@@ -154,7 +154,7 @@ p:not(#copyright){
     }
 
     #welcome-section{
-        margin: 2.5% 0 10% !important;
+        margin: 2.5% 0 25vmin !important;
     }
 
     .resume{
