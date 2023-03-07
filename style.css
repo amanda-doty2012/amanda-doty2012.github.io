@@ -113,31 +113,6 @@ footer{
     text-align: center;
 }
 
-@media screen and (min-width: 250px) and (max-width: 768px){
-    #navbar{
-        position: fixed;
-        max-height: 4vmax;
-        text-align: center;
-        justify-content: space-around;
-        font-size: 8px;
-    }
-    img{
-        max-width: 30vmax;
-        max-height: auto;
-    }
-    .contact-form{
-        padding: 10vh;
-        margin: 10vh;
-    }
-
-    body{
-        font-size: 12px;
-    }
-    .resume{
-        max-width: 90vmax;
-        margin-top: 25px;
-    }
-}
 
 .resume{
     width:90%;
