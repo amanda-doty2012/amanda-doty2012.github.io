@@ -129,6 +129,9 @@ footer{
         max-width: 30vmax;
         max-height: auto;
     }
+    .contact-form{
+        padding: 2vmin;
+    }
 }
 
 .resume{
