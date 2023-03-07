@@ -63,10 +63,9 @@ h1{
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    margin-bottom: 10vh !important;
+    margin-bottom: 25px !important;
     height: 80vh;
-    position: absolute;
-
+    position: static;
 }
 
 #nav-link{
@@ -152,6 +151,10 @@ p:not(#copyright){
     #nav-bar{
         height: 45px;
         font-size: 1em;
+    }
+
+    #welcome-section{
+        margin: 2.5% 0 10%;
     }
 
     .resume{
