@@ -113,7 +113,7 @@ footer{
     text-align: center;
 }
 
-@media screen and (max-width: 768px){
+@media screen and (min-width: 500px) and (max-width: 768px){
     body{
         max-width: 100%;
         font-size: 3vmin;
