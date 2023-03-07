@@ -144,6 +144,7 @@ p:not(#copyright){
 @media screen and (max-width: 1023px){
     body{
         text-align: center;
+        width: 100%;
     }
     
     .navbar{
