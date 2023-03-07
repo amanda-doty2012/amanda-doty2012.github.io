@@ -153,14 +153,15 @@ p:not(#copyright){
     }
 
     #welcome-section{
-        margin: 2.5% 0 25vmin !important;
+        margin: 55px 0 25vmin !important;
     }
 
     .resume{
         display: grid;
         grid-template-columns: 1fr !important;
         padding: 1em;
-        grid-row-gap: 100px;
+        grid-row-gap: 75px;
+        margin: 10vmax;
     }
 
     footer{
