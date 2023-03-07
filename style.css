@@ -149,8 +149,8 @@ p:not(#copyright){
         font-size: 1em;
     }
 
-    #connect{
-        margin: 25vmin !important;
+    body{
+        margin-bottom: 25vmin !important;
     }
 
     .resume{
