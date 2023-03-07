@@ -161,7 +161,7 @@ p:not(#copyright){
         grid-template-columns: 1fr !important;
         padding: 1em;
         grid-row-gap: 75px;
-        margin: 10vmax !important;
+        margin: 10vmax 0 !important;
     }
 
     footer{
