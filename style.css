@@ -115,7 +115,7 @@ footer{
 
 @media screen and (min-width: 500px) and (max-width: 768px){
     body{
-        max-width: 100%;
+        max-width: 100vw;
         font-size: 3vmin;
     }
     #navbar{
@@ -130,8 +130,8 @@ footer{
         max-height: auto;
     }
     .contact-form{
-        padding: 20px;
-        margin: 20px;
+        padding: 10vh;
+        margin: 10vh;
     }
 }
 
