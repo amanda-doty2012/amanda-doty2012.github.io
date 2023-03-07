@@ -131,11 +131,7 @@ p:not(#copyright){
     font-size: 1.25rem;
 }
 
-@media screen and (max-width: 10323px){
-    body{
-        float: none;
-        width: auto;
-    }
+@media screen and (max-width: 1023px){
     #navbar{
         height: 2vh;
         font-size: 1vh;
