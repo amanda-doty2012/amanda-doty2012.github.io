@@ -151,7 +151,7 @@ p:not(#copyright){
 
     .resume{
         display: grid;
-        grid-template-columns: 1fr;
+        grid-template-columns: 1fr !important;
         padding: 1em;
         grid-row-gap: 100px;
     }
