@@ -150,11 +150,7 @@ p:not(#copyright){
     }
 
     .contact-form{
-        margin-bottom: 25vmin !important;
-    }
-
-    #projects{
-        margin-top: 15vmin !important;
+        padding: 25vmin !important;
     }
 
     .resume{
