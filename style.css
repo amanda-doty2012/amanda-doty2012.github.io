@@ -62,7 +62,7 @@ h1{
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    margin-bottom: 25vh !important;
+    margin-bottom: 15vh !important;
     height: 80vh;
     position: static;
 }
