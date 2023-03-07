@@ -133,6 +133,11 @@ footer{
         padding: 10vh;
         margin: 10vh;
     }
+
+    .resume{
+        margin-top: 25vmax;
+        width: 90vw;
+    }
 }
 
 .resume{
