@@ -130,3 +130,28 @@ footer{
 p:not(#copyright){
     font-size: 1.25rem;
 }
+
+@media screen and (max-width: 10323px){
+    body{
+        float: none;
+        width: auto;
+    }
+    #navbar{
+        height: 2vh;
+        font-size: 1vh;
+        width: auto
+    }
+    .resume{
+        float: none;
+        width: auto;
+    }
+    .resume figure{
+        margin: 0 auto;
+        max-width: 250px;
+        width: 75%;
+        justify-self: center;
+    }
+    .resume h4{
+        text-align: center;
+    }
+}
