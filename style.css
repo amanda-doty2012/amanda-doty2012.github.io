@@ -4,7 +4,7 @@
     color:rgb(2, 35, 65);
 }
 
-.navbar{
+header{
     background: linear-gradient(45deg,
     hotpink,
     goldenrod,
@@ -132,7 +132,7 @@ p:not(#copyright){
 }
 
 @media screen and (max-width: 1023px){
-    .navbar{
+    header{
         height: 2vh;
         font-size: 1vh;
     }
