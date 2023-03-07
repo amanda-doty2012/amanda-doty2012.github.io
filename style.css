@@ -160,6 +160,8 @@ p:not(#copyright){
     #welcome-section{
         margin: 55px 0 25vmin !important;
         width: 90%;
+        height: 100% !important;
+
     }
 
     .resume{
