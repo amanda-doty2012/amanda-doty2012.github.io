@@ -118,6 +118,9 @@ footer{
     font-size: 10px;
     border-top: 2px double indigo;
     text-align: center;
+    position: relative;
+    display: block;
+    padding: 15px;
 }
 
 
@@ -149,14 +152,15 @@ p:not(#copyright){
         font-size: 1em;
     }
 
-    body{
-        margin-bottom: 25vh !important;
-    }
-
     .resume{
         display: grid;
         grid-template-columns: 1fr !important;
         padding: 1em;
         grid-row-gap: 100px;
+    }
+
+    footer{
+        width:100%;
+        margin-top: 15vh !important;
     }
 }
