@@ -132,7 +132,7 @@ p:not(#copyright){
 }
 
 @media screen and (max-width: 1023px){
-    *{
-        transform: scale(95vmax);
+    #navbar{
+        
     }
 }
