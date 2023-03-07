@@ -150,7 +150,7 @@ p:not(#copyright){
     }
 
     .contact-form{
-        padding: 50px !important;
+        margin-bottom: 50px !important;
     }
 
     .resume{
