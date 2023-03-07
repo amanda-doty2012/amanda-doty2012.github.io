@@ -65,7 +65,8 @@ h1{
     justify-content: center;
     margin-bottom: 10vh !important;
     height: 80vh;
-    position: relative;
+    position: absolute;
+
 }
 
 #nav-link{
