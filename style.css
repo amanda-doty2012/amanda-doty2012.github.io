@@ -139,10 +139,14 @@ p:not(#copyright){
 }
 
 @media screen and (max-width: 1023px){
+    header{
+        width:100%;
+        top:0;
+    }
+    
     .navbar{
         width:100vw;
         top: 0;
-        margin: auto;
     }
     
     #nav-bar{
