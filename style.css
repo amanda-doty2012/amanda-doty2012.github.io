@@ -102,14 +102,15 @@ h4{
     text-align: center;
 }
 
-ul{
+#schools, #certifications{
     list-style-type: none;
-}
-
-li{
     text-align: center;
     padding: 8px;
     font-size: 1rem;
+}
+
+ul{
+    list-style-type: circle;
 }
 
 #fcc-project{
