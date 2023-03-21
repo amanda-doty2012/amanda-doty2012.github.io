@@ -111,10 +111,11 @@ h4{
 
 ul{
     list-style-type: circle;
-    align-content: center;
+    text-align: left;
     justify-content: center;
     padding: 10px;
     font-size: 1.25rem;
+    margin-left: 25vw;
 }
 
 #fcc-project{
