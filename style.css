@@ -109,7 +109,7 @@ h4{
     font-size: 1rem;
 }
 
-ul{
+ul :not(#schools):not(#certifications){
     list-style-type: circle;
     text-align: left;
     justify-content: center;
