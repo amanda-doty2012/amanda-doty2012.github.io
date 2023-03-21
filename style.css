@@ -67,6 +67,11 @@ h1{
     position: static;
 }
 
+#skills{
+    border-bottom: 2px solid indigo;
+    margin-bottom: 8vh;
+}
+
 #nav-link{
     background: transparent;
 }
