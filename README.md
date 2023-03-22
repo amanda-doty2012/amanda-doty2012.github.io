@@ -30,7 +30,7 @@
         </header>
         <section id="welcome-section">
             <h1>Hello! My name is Amanda</h1>
-            <img id="self-portrait" src="https://i.imgur.com/Asm5c9V.jpg" title="source: imgur.com" height="50px" />
+            <img id="self-portrait" src="https://i.imgur.com/Asm5c9V.jpg" title="source: imgur.com" height="150px" />
         </section>
         <section id="projects">
             <h2>What I've worked on</h2>
