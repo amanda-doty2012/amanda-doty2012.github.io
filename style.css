@@ -129,7 +129,7 @@ footer{
 .resume{
     width:90%;
     display: grid;
-    grid-template-columns: 25vmax 25vmax;
+    grid-template-columns: 45% 45%;
     column-gap: 10vmax;
     justify-content:stretch;
 }
