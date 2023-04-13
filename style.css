@@ -63,7 +63,7 @@ h1{
     align-items: center;
     justify-content: center;
     height: auto;
-    margin-bottom: 10vh;
+    margin-bottom: 8vh;
     position: static;
 }
 
@@ -129,11 +129,14 @@ footer{
 .resume{
     width:90%;
     display: grid;
-    grid-template-columns: 25vmax 30vmax 25vmax;
+    grid-template-columns: 40vmax 40vmax;
     column-gap: 5vmax;
     justify-content:stretch;
 }
 
+#future{
+    width: 90%;
+}
 
 #resume-heading{
     border-bottom: 1.5px solid rgb(120, 6, 116);
