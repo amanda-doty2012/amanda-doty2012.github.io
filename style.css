@@ -110,7 +110,7 @@ ul{
     margin-left: 25vw;
 }
 
-#fcc-project{
+#fcc-project, #google-tables{
     height: auto;
     width: 25vmax;
     align-self:baseline;
@@ -133,6 +133,7 @@ footer{
     column-gap: 10vmax;
     justify-content:center;
     margin-bottom: 15px;
+    margin-left: 5%;
 }
 
 
