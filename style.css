@@ -131,11 +131,16 @@ footer{
     display: grid;
     grid-template-columns: 45% 45%;
     column-gap: 10vmax;
-    justify-content:stretch;
+    justify-content:center;
+    margin-bottom: 15px;
 }
 
-#future{
+#about-me{
     width: 90%;
+    justify-content: center;
+    display: grid;
+    grid-template-columns: 45% 45%;
+    column-gap: 10vmax;
 }
 
 #resume-heading{
