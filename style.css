@@ -135,13 +135,6 @@ footer{
     margin-bottom: 15px;
 }
 
-#about-me{
-    width: 90%;
-    justify-content: center;
-    display: grid;
-    grid-template-columns: 45% 45%;
-    column-gap: 10vmax;
-}
 
 #resume-heading{
     border-bottom: 1.5px solid rgb(120, 6, 116);
