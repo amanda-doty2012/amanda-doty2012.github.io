@@ -114,7 +114,10 @@ ul{
     height: auto;
     width: 25vmax;
     align-self:baseline;
-    margin-bottom: 25px;
+}
+
+#projects{
+    padding-bottom: 30px;
 }
 
 footer{
