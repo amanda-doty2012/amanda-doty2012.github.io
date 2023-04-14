@@ -110,7 +110,7 @@ ul{
     margin-left: 25vw;
 }
 
-figure{
+.figure-tile{
     height: auto;
     width: 25vmax;
     align-self:baseline;
