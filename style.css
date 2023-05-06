@@ -110,7 +110,7 @@ ul{
     margin-left: 25vw;
 }
 
-#heatmap, #google-tables, #fcc-project{
+#heatmap, #google-tables, #fcc-project, #campaign, #product-bubble, #tree-map{
     height: auto;
     width: 25vmax;
     align-self:baseline;
@@ -130,7 +130,7 @@ footer{
 }
 
 
-.resume{
+#present{
     width:90%;
     display: grid;
     grid-template-columns: 45% 45%;
